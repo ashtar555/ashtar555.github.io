@@ -1,0 +1,8 @@
+#web_bg {
+    /* 背景图像的地址（url括号里）  */
+    background: url("https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/7005/b415cc3ffa6fd035342f7a9120897482.jpg");
+    /* 背景图像不重复 */
+    background-repeat: no-repeat;
+    /* 背景图像大小 */
+    background-size: cover;
+}
